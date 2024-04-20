@@ -18,8 +18,8 @@ I'm a passionate backend developer (MERN) with a knack for building scalable and
 
 ## Let's Connect!
 <p align="left">
-<a href="https://twitter.com/aalsi_baccha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aalsi_baccha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jayesh-saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh-saini" height="30" width="40" /></a>
-<a href="https://instagram.com/aalsi_baccha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aalsi_baccha" height="30" width="40" /></a>
+<a href="https://u4r.in/jayesh-saini-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aalsi_baccha" height="30" width="40" /></a>
+<a href="https://u4r.in/jayesh-saini-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh-saini" height="30" width="40" /></a>
+<a href="https://u4r.in/jayesh-saini-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aalsi_baccha" height="30" width="40" /></a>
 </p>
 
